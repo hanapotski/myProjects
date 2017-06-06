@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.jumbotron h1 {
+	font-family: 'Kalam', cursive;
+}
+.jumbotron {
+	margin-top: 2em;
+}
+.navbar-header .navbar-brand {
+	font-family: 'Kalam', cursive;
+}
+.social {
+	padding-right: .5%;
+	padding-left: .5%;
+}
+.col-sm-4 h1 {
+	font-family: 'Kalam', cursive;
+}
+h1 {
+	font-family: 'Kalam', cursive;
+}
+p {
+	font-size: 1.3em;
+}
+section {
+	margin-top: 5em;
+}
