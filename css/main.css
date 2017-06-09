@@ -1,26 +1,30 @@
 @charset "UTF-8";
 .jumbotron h1 {
-	font-family: 'Kalam', cursive;
+	font-family: 'Pacifico', cursive;
 }
 .jumbotron {
 	margin-top: 2em;
 }
 .navbar-header .navbar-brand {
-	font-family: 'Kalam', cursive;
+	font-family: 'Pacifico', cursive;
 }
 .social {
 	padding-right: .5%;
 	padding-left: .5%;
 }
 .col-sm-4 h1 {
-	font-family: 'Kalam', cursive;
+	font-family: 'Pacifico', cursive;
 }
 h1 {
-	font-family: 'Kalam', cursive;
+	font-family: 'Pacifico', cursive;
 }
 p {
 	font-size: 1.3em;
 }
 section {
 	margin-top: 5em;
+}
+
+#footer {
+	margin-top: 10em;
 }
