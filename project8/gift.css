@@ -17,3 +17,8 @@ a:hover {
 .tv {
   background-image: url(../img/tv.gif);
 }
+
+footer {
+  color: #bcc4d1;
+  margin-top: 5em;
+}
