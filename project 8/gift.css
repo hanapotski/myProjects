@@ -1,0 +1,19 @@
+nav {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 2em;
+}
+
+nav a {
+  display: block;
+  margin-right: 2em;
+  color: #cc0000;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.tv {
+  background-image: url(../img/tv.gif);
+}
