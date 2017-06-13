@@ -1,0 +1,51 @@
+nav {
+  margin-top: 2em;
+  margin-bottom: 3em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2em;
+  float: right;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: .5em;
+  color: #694C24;
+}
+
+a {
+  color: inherit;
+}
+a:hover {
+  color: 	#523822;
+}
+
+.card {
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FBE2CC;
+}
+
+.text {
+  font-family: 'Poiret One', cursive;
+  font-size: 6em;
+  line-height: .8em;
+  padding: .5em;
+  padding-top: 1em;
+  color: 	#523822
+
+}
+.tv {
+  background-image: url(../img/tv.gif);
+}
+
+footer {
+  color: #bcc4d1;
+  margin-top: 5em;
+}
+
+.credits {
+  color: #bcc4d1;
+  margin-top: 5em;
+}
