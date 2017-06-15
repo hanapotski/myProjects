@@ -1,0 +1,38 @@
+body {
+font-family: 'Inconsolata', monospace;
+}
+
+nav {
+  padding-top: 3em;
+  padding-bottom: 10em;
+  position: fixed;
+}
+
+nav a {
+  padding: 1  em;
+  text-decoration: none;
+}
+
+.scroll {
+  padding-top: 10em;
+  color: #c5cbd6;
+}
+
+.message {
+  font-size: .9em;
+}
+
+.top {
+  padding-top: 3em;
+  position: fixed;
+}
+
+.bottom {
+  padding-top: 100em;
+}
+
+footer {
+  margin-top: 10em;
+  padding-bottom: 30em;
+  color: #c5cbd6;
+}
