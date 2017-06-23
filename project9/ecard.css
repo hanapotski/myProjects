@@ -29,15 +29,16 @@ a:hover {
 
 .text {
   font-family: 'Poiret One', cursive;
-  font-size: 6em;
+  font-size: 5em;
   line-height: .8em;
   padding: .5em;
   padding-top: 1em;
   color: 	#523822
-
 }
-.tv {
-  background-image: url(../img/tv.gif);
+
+.pic {
+  width: 300px;
+  margin-top: 3em;
 }
 
 footer {
