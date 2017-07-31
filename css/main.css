@@ -12,9 +12,11 @@
 	padding-right: .5%;
 	padding-left: .5%;
 }
-.col-sm-4 h1 {
-	font-family: 'Pacifico', cursive;
+
+.col-md-4, .col-sm-6{
+	height: 250px;
 }
+
 h1 {
 	font-family: 'Pacifico', cursive;
 }
